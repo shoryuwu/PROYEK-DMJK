@@ -22,8 +22,6 @@
    - 3.7. Kebutuhan Skalabilitas dan Pertumbuhan
 4. Timeline Rencana Kerja Proyek (Pekan 9-15)
 5. Sketsa Awal Desain Jaringan
-   - 5.1. Pendekatan Desain
-   - 5.2. Deskripsi Tekstual Sketsa Awal
 6. Kendala dan Solusi
 7. Kesimpulan
 8. Lampiran

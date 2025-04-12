@@ -221,7 +221,7 @@ Teknologi:
 | 15    | Uji Coba & Dokumentasi Akhir            | Laporan akhir & presentasi proyek           |
 
 ## 5. Sketsa Awal Desain Jaringan
-![Sketsa Desain Jaringan](sketsadmjk.jpeg)
+![Sketsa Desain Jaringan](image/sketsadmjk.jpeg)
 
 ### Gedung A (Kantor Pusat)
 #### Router Pusat

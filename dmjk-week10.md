@@ -81,7 +81,7 @@ Ruang lingkup proyek perancangan dan implementasi jaringan PT. Nusantara Network
   - Pedoman operasional dan troubleshooting 
 
 ## 2. Diagram topologi
-![Screenshot](topologidmjk.png)
+![Screenshot](image/topologidmjk.png)
 
 ###  Gedung A (Kantor Pusat)
 

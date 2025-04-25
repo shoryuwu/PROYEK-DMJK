@@ -1581,7 +1581,7 @@ Router B menggunakan **RIP versi 2** dengan:
 
 ## Kendala yang dihadapi dan solusinya
 ### Hasil Konektivitas Antar-VLAN 
-![alt text](<Hasil konektivitas antar-VLAN .png>)
+![alt text](HasilkonektivitasantarVLAN.png)
 #### Penjelasan :
 Tabel di atas menunjukkan hasil pengujian konektivitas antar departemen yang berbeda gedung. Dalam bahasa sederhana:
 
@@ -1602,10 +1602,10 @@ Semua pengujian menunjukkan status "Successful" yang artinya:
 ## Kendala yang dihadapi dan solusinya
 ### Terdapat ada topologi Revisi di bagian Switch dan Router
 #### Sebelum 
-![alt text](<topologi pekan 10.png>)
+![alt text](topologipekan10.png)
 
 #### Sesudah
-![alt text](<Topologi Revisi di packet tracer.png>)
+![alt text](TopologiRevisidipackettracer.png)
 
 
 #### Penjelasan : 

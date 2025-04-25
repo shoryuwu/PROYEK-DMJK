@@ -11,13 +11,12 @@
    - 1.1. Latar Belakang
    - 1.2. Tujuan Proyek
    - 1.3. Ruang Lingkup Proyek
-2. Diagram topologi
-3. Tabel pengalamatan IP
-4. Daftar perangkat yang dibutuhkan
-5. Rencana penerapan VLAN (VLAN ID, nama, tujuan).
-6. Kendala dan Solusi
-7. Kesimpulan
-8. Lampiran
+2. Pembangunan topologi dasar di Cisco Packet Tracer/GNS3
+3. Konfigurasi VLAN dan trunking
+4. Implementasi routing antar-VLAN
+5. Kendala yang dihadapi dan solusinya
+6. Kesimpulan
+7. Lampiran
 
 ## 1. Pendahuluan
 ### 1.1 Latar Belakang

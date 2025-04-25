@@ -826,17 +826,6 @@ Main-Switch-Router-B#write memory
 Building configuration...
 [OK]
 ```
-### Penjelasan Detail
-Berikut penjelasan ulang berdasarkan format yang kamu inginkan untuk **Main Switch Router B**:
-
----
-
-### Penjelasan Detail
-
-#### Pembuatan VLAN
-VLAN digunakan untuk memisahkan jaringan berdasarkan divisi agar lebih terstruktur dan aman. Berikut VLAN yang dibuat:
-- **VLAN 50**: Marketing
-- **VLAN 60**: Operasional
 
 #### Konfigurasi Trunk Port ke Router
 Port **FastEthernet0/1** diatur sebagai trunk, artinya bisa membawa trafik dari beberapa VLAN sekaligus. Trunk ini menghubungkan switch ke router untuk kebutuhan inter-VLAN routing.

@@ -82,7 +82,7 @@ Ruang lingkup proyek perancangan dan implementasi jaringan PT. Nusantara Network
 
 ## 2. Pembangunan topologi dasar di Cisco Packet Tracer/GNS3.
 
-![Screenshot](image/Topologi Revisi di packet tracer.png)
+![Screenshot](image/TopologiRevisidipackettracer.png)
 
 ###  Gedung A (Kantor Pusat)
 

@@ -390,7 +390,7 @@ Router_Koneksi_Internet(config)#
 ## 4. Simulasi koneksi WAN antar gedung.
 ## A. Koneksi antar-gedung
 ## Router A
-![alt text](<Koneksi Router A.png>)
+![alt text](<image/Koneksi Router A.png>)
 a. Ping ke Router_ISP:
 ```bash
 Router_A>ping 192.168.4.2

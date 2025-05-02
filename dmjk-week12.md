@@ -441,7 +441,7 @@ Hasil ini membuktikan koneksi point-to-point antar gedung berfungsi dengan baik
 
 
 ## Router B
-![alt text](<Koneksi Router B.png>)
+![alt text](<image/Koneksi Router B.png>)
 a. Ping ke Router_ISP:
 ```bash
 Router_B>ping 192.168.2.1
@@ -488,7 +488,7 @@ Hasil ini membuktikan konfigurasi OSPF antara Router B dan ISP bekerja dengan be
 
 
 ## Router ISP
-![alt text](<Koneksi Router ISP.png>)
+![alt text](<image/Koneksi Router ISP.png>)
 a. Ping ke Router_A:
 ```bash
 Router_ISP>ping 192.168.4.1
@@ -566,7 +566,7 @@ Koneksi Internet
 
 ## B. Tabel Routing antar-gedung
 ## Tabel Routing Router A
-![alt text](<TABEL ROUTING ROUTER A.png>)
+![alt text](<image/TABEL ROUTING ROUTER A.png>)
 ```bash
 Router_A>show ip route
 Codes: L - local, C - connected, S - static, R - RIP, M - mobile, B - BGP
@@ -658,7 +658,7 @@ O    192.168.60.0/24 [110/2] via 192.168.3.2, 02:16:06, GigabitEthernet0/2
 
 
 ## Tabel Routing Router B
-![alt text](<TABEL ROUTING ROUTER B.png>)
+![alt text](<image/TABEL ROUTING ROUTER B.png>)
 ```bash
 Router_B>show ip route
 Codes: L - local, C - connected, S - static, R - RIP, M - mobile, B - BGP
@@ -739,7 +739,7 @@ Router B mempelajari rute-rute berikut via OSPF:
 ---
 
 ## Tabel Routing Router ISP
-![alt text](<TABEL ROUTING ROUTER ISP.png>)
+![alt text](<image/TABEL ROUTING ROUTER ISP.png>)
 ```bash
 Router_ISP>show ip route
 Codes: L - local, C - connected, S - static, R - RIP, M - mobile, B - BGP
@@ -1004,9 +1004,9 @@ ___
 Hasil Koneksi Antar gedung dan Simulasi Wan lewat HTTP :
 
 OSPF:
-![alt text](ospf.png)
+![alt text](image/ospf.png)
 WAN:
-![alt text](<Simulasi Wan pada server.png>)
+![alt text](<image/Simulasi Wan pada server.png>)
 
 
 

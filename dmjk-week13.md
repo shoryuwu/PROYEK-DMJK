@@ -157,7 +157,7 @@ PC1 IT-1 mendapatkan IP secara otomatis dari DHCP Server tanpa kesalahan, dengan
 
 #### DHCP Testing - Departemen Keuangan
 
-![alt text](dhcp_keuangan_pc2.png)
+![alt text](image/dhcp_keuangan_pc2.png)
 
 ### **Analisis Konfigurasi DHCP pada PC1-Keuangan-1 (VLAN 20)**
 
@@ -198,7 +198,7 @@ PC1-Keuangan-1 telah berhasil memperoleh alamat IP dinamis `192.168.20.11` dari 
 
 #### DHCP Testing - Departemen SDM
 
-![alt text](dhcp_sdm_pc3.png)
+![alt text](image/dhcp_sdm_pc3.png)
 
 ### **Analisis Konfigurasi DHCP pada PC1-SDM-4 (VLAN 30)**
 
@@ -236,7 +236,7 @@ PC1-SDM-4 sukses memperoleh alamat IP dinamis `192.168.30.11` dari DHCP Server m
 
 #### DHCP Testing - Departemen Server
 
-![alt text](dhcp_server_pc4.png)
+![alt text](image/dhcp_server_pc4.png)
 
 
 ### **Analisis Konfigurasi DHCP pada Server (VLAN 40)**
@@ -296,7 +296,7 @@ Router_B(config)#
 ```
 #### DHCP Testing - Departemen Marketing
 
-![alt text](dhcp_marketing_pc5.png)
+![alt text](image/dhcp_marketing_pc5.png)
 
 ### **Analisis Konfigurasi DHCP pada PC1 (VLAN 50 - Marketing)**
 
@@ -333,7 +333,7 @@ PC1 Marketing pada VLAN 50 berhasil memperoleh konfigurasi IP otomatis `192.168.
 
 #### DHCP Testing - Departemen Operasional
 
-![alt text](dhcp_operasional_pc6.png)
+![alt text](image/dhcp_operasional_pc6.png)
 
 ### **Analisis Konfigurasi DHCP pada PC2 (VLAN 60 - Operasional)**
 
@@ -371,7 +371,7 @@ PC2 yang berada di VLAN 60 berhasil mendapatkan IP address `192.168.60.12`, gate
 ## 3. Implementasi DNS Server untuk resolusi nama internal.
 #### DNS Testing - Resolusi Nama Internal (VLAN Keuangan)
 
-![alt text](dns_server_ping.png)
+![alt text](image/dns_server_ping.png)
 
 PC di VLAN Keuangan berhasil melakukan `ping server.local`, dan sistem DNS internal mengonversi nama tersebut menjadi IP **192.168.40.2**.
 Respon `Reply from 192.168.40.2` menandakan bahwa:
@@ -381,7 +381,7 @@ Respon `Reply from 192.168.40.2` menandakan bahwa:
 
 #### DNS Testing - Resolusi Nama Internal (VLAN Keuangan)
 
-![alt text](pc_keuangan_ping_all.png)
+![alt text](image/pc_keuangan_ping_all.png)
 
 PC14 dari VLAN **Keuangan** (VLAN 20) berhasil melakukan pengujian DNS internal ke beberapa domain:
 
@@ -398,7 +398,7 @@ Hasil ini mengonfirmasi bahwa:
 
 #### Konfigurasi DNS Server Pusat
 
-![alt text](dns_server_config.png)
+![alt text](image/dns_server_config.png)
 
 DNS Server pusat berfungsi untuk **melayani permintaan resolusi nama domain dari seluruh perangkat jaringan internal**. DNS Service dalam gambar terlihat **aktif (On)**, dan beberapa *A Record* telah dikonfigurasikan, di antaranya:
 
@@ -460,7 +460,7 @@ Router_A#
 
 #### NAT Testing - Koneksi ke Jaringan Eksternal
 
-![alt text](nat_vlan10_ping.png)
+![alt text](image/nat_vlan10_ping.png)
 
 PC dari VLAN 10 (subnet 192.168.10.0/24) berhasil melakukan `ping` ke IP **172.16.1.1**, yang merupakan representasi dari jaringan eksternal (Cloud).
 
@@ -500,7 +500,7 @@ Router_B#
 ```
 #### NAT Testing - Koneksi ke Jaringan Eksternal (VLAN 60)
 
-![alt text](nat_vlan60_ping.png)
+![alt text](image/nat_vlan60_ping.png)
 
 PC dari VLAN 60 (subnet **192.168.60.0/24**) berhasil melakukan `ping` ke IP **172.16.1.1**, yang mewakili jaringan eksternal (Cloud).
 

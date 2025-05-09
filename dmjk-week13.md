@@ -118,7 +118,7 @@ Router_A(config)#
 
 #### DHCP Testing - Departemen IT
 
-![alt text](dhcp_it_pc1.png)
+![alt text](image/dhcp_it_pc1.png)
 
 ### **Analisis Konfigurasi DHCP pada PC1 IT-1 (VLAN 10)**
 

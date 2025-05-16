@@ -129,7 +129,7 @@ FTP (File Transfer Protocol) Server adalah layanan jaringan yang memungkinkan pe
 Berikut penjelasan fitur FTP Server:
 
 ### 1. Konfigurasi FTP Server 
-![alt text](GAMBAR1.jpg)
+![alt text](image/GAMBAR1.jpg)
 - **Alamat IPv4**: 
   - IP: `192.168.40.17`
   - Subnet Mask: `255.255.255.0`

@@ -143,7 +143,7 @@ Berikut penjelasan fitur FTP Server:
 
 
 ### 2. Proses Upload File 
-![alt text](GAMBAR2.jpg)
+![alt text](image/GAMBAR2.jpg)
 - **Aksi**: PC1 IT-1 mengunggah file `hitam.txt` ke server FTP (`192.168.40.17`).
 - **Langkah**:
   1. Koneksi FTP terbuka dengan username `user1` dan password.
@@ -153,7 +153,7 @@ Berikut penjelasan fitur FTP Server:
 
 
 ### 3. Proses Download File 
-![alt text](GAMBAR3.jpg)
+![alt text](image/GAMBAR3.jpg)
 - **Aksi**: PC1-Keuangan-1 mengunduh file `hitam.txt` dari server FTP (`192.168.40.17`).
 - **Langkah**:
   1. Koneksi FTP terbuka dengan username `user1` dan password.
@@ -165,7 +165,7 @@ Berikut penjelasan fitur FTP Server:
 
 
 ### 4. Manajemen File di Client 
-![alt text](GAMBAR4.jpg)
+![alt text](image/GAMBAR4.jpg)
 - **Daftar File**: 
   - `hitam.txt` (7 bytes)
   - `sampleFile.txt` (26 bytes).
@@ -572,9 +572,9 @@ Berikut penjelasan fitur HTTP Server:
 
 #### 1. Infrastruktur Jaringan Perusahaan 
 
-![alt text](GAMBAR11.jpg)
-![alt text](GAMBAR12.jpg)
-![alt text](GAMBAR14.jpg)
+![alt text](image/GAMBAR11.jpg)
+![alt text](image/GAMBAR12.jpg)
+![alt text](image/GAMBAR14.jpg)
 
 **Fitur Utama:**
 - **DNS Server Terpusat**:
@@ -593,11 +593,11 @@ Berikut penjelasan fitur HTTP Server:
 
 #### 3. Dashboard Departemen 
 
-![alt text](GAMBAR14.jpg)
-![alt text](GAMBAR15.jpg)
-![alt text](GAMBAR16.jpg)
-![alt text](GAMBAR17.jpg)
-![alt text](GAMBAR18.jpg)
+![alt text](image/GAMBAR14.jpg)
+![alt text](image/GAMBAR15.jpg)
+![alt text](image/GAMBAR16.jpg)
+![alt text](image/GAMBAR17.jpg)
+![alt text](image/GAMBAR18.jpg)
 
 **Fitur Per Departemen:**  
 | Departemen | Fitur Kunci | Data Utama |  
@@ -615,8 +615,8 @@ Berikut penjelasan fitur HTTP Server:
 
 #### 4. Portal Perusahaan 
 
-![alt text](GAMBAR12.jpg)
-![alt text](GAMBAR13.jpg)
+![alt text](image/GAMBAR12.jpg)
+![alt text](image/GAMBAR13.jpg)
 
 **Fitur Utama:**
 - **Situs Internal**:

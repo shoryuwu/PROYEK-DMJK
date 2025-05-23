@@ -428,7 +428,7 @@ Switch utama yang mendistribusikan koneksi ke seluruh perangkat dan switch depar
 | ISP     | Internet      | Penyedia Jaringan                    | Koneksi eksternal ke penyedia layanan internet                            |
 | WAN     | Antarkantor        | Koneksi Internet                      | Interkoneksi dedicated antara gedung pusat dan cabang    
 
-
+## 10. Pembangunan topologi dasar di Cisco Packet Tracer/GNS3.
 ![Screenshot](image/TopologiRevisidipackettracer.png)
 
 ###  Gedung A (Kantor Pusat)

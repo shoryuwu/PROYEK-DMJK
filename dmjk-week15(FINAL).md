@@ -255,7 +255,6 @@ Main switch ini merupakan tulang punggung jaringan di Gedung A yang menghubungka
 - **Server 1–10 (VLAN 40)**: Menyediakan berbagai layanan penting seperti:
   - **Server 1 (DHCP + DNS)**: Bertugas memberikan alamat IP ke seluruh VLAN melalui DHCP Relay, serta menangani permintaan DNS.
   - **Server Web, Email, FTP, dan Database**: Mendukung aplikasi internal dan komunikasi perusahaan.
-  - **AAA Server**: Menangani otentikasi, otorisasi, dan pencatatan aktivitas pengguna di jaringan.
   - **Monitoring Server**: Memantau kondisi dan performa jaringan menggunakan alat seperti PRTG atau Syslog.
   - **NTP dan Backup Server**: Mengatur sinkronisasi waktu dan penyimpanan data cadangan.
 
@@ -335,8 +334,7 @@ Main switch ini merupakan tulang punggung jaringan di Gedung A yang menghubungka
 ###  Server 1–10 (VLAN 40)
 Menyediakan berbagai layanan penting seperti:  
 - **Server 1 (DHCP + DNS)**: Memberikan IP ke seluruh VLAN (via DHCP Relay) dan menangani DNS.  
-- **Server Web, Email, FTP, dan Database**: Mendukung aplikasi internal dan komunikasi.  
-- **AAA Server**: Menangani autentikasi, otorisasi, dan pencatatan aktivitas jaringan.  
+- **Server Web, Email, FTP, dan Database**: Mendukung aplikasi internal dan komunikasi.   
 - **Monitoring Server**: Memantau kondisi dan performa jaringan (PRTG, Syslog).  
 - **NTP & Backup Server**: Sinkronisasi waktu dan cadangan data.
 
@@ -430,7 +428,6 @@ Switch utama yang mendistribusikan koneksi ke seluruh perangkat dan switch depar
 | ISP     | Internet      | Penyedia Jaringan                    | Koneksi eksternal ke penyedia layanan internet                            |
 | WAN     | Antarkantor        | Koneksi Internet                      | Interkoneksi dedicated antara gedung pusat dan cabang    
 
-## 10. Pembangunan topologi dasar di Cisco Packet Tracer/GNS3.
 
 ![Screenshot](image/TopologiRevisidipackettracer.png)
 
@@ -477,7 +474,6 @@ Main switch ini merupakan tulang punggung jaringan di Gedung A yang menghubungka
 Menyediakan berbagai layanan penting seperti:  
 - **Server 1 (DHCP + DNS)**: Memberikan IP ke seluruh VLAN (via DHCP Relay) dan menangani DNS.  
 - **Server Web, Email, FTP, dan Database**: Mendukung aplikasi internal dan komunikasi.   
-- **Monitoring Server**: Memantau kondisi dan performa jaringan (PRTG, Syslog).  
 - **NTP & Backup Server**: Sinkronisasi waktu dan cadangan data.
 
 

@@ -3345,8 +3345,8 @@ Email Server adalah sistem yang mengelola pengiriman, penerimaan, dan penyimpana
 Berikut penjelasan fitur Email Server:
 
 #### 1. Konfigurasi Mail Server 
-![Mail Server Configuration](GAMBAR5.jpg)
-![Mail Server Services](GAMBAR6.jpg)
+![Mail Server Configuration](image/GAMBAR5.jpg)
+![Mail Server Services](image/GAMBAR6.jpg)
 
 **Fitur Utama:**
 - **Layanan Email**:
@@ -3364,7 +3364,7 @@ Berikut penjelasan fitur Email Server:
 
 
 #### 2. Konfigurasi DNS Server 
-![DNS Server Configuration](GAMBAR7.jpg)
+![DNS Server Configuration](image/GAMBAR7.jpg)
 
 **Fitur Utama:**
 - **DNS Records**:
@@ -3378,7 +3378,7 @@ Berikut penjelasan fitur Email Server:
   - Record khusus untuk mail server (point ke IP 192.168.40.16)
 
 #### 3. Konfigurasi Email Client - IT Departemen 
-![IT Email Client](GAMBAR8.jpg)
+![IT Email Client](image/GAMBAR8.jpg)
 
 **Fitur Utama:**
 - **Profil Email**:
@@ -3389,7 +3389,7 @@ Berikut penjelasan fitur Email Server:
   - Autentikasi: username/password
 
 #### 4. Konfigurasi Email Client - Keuangan 
-![Keuangan Email Client](GAMBAR9.jpg)
+![Keuangan Email Client](image/GAMBAR9.jpg)
 
 **Fitur Utama:**
 - **Profil Email**:
@@ -3400,7 +3400,7 @@ Berikut penjelasan fitur Email Server:
   - Menggunakan server yang sama
 
 #### 5. Contoh Komunikasi Email 
-![Email Exchange](GAMBAR10.jpg)
+![Email Exchange](image/GAMBAR10.jpg)
 
 **Fitur Utama:**
 - **Percakapan Email**:

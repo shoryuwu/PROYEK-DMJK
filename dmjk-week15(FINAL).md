@@ -1,6 +1,6 @@
 # Perencanaan Proyek PT. Nusantara Network - Pekan 15 
 
-## Anggota Kelompok dan Peran
+## Anggota Kelompok 9 dan Peran
 - Firni Fauziah Ramadhini (10231038) - Network Architect
 - Alfiani Dwiyuniarti (10231010) - Network Services Specialist
 - Rayhan Iqbal (10231080) - Network Engineer
@@ -39,6 +39,10 @@
 20. Implementasi Access Control List (ACL) sesuai kebijakan keamanan.
 21. Pengujian menyeluruh semua fitur jaringan.
 22. Troubleshooting dan perbaikan masalah.
+23. Kendala dan Solusi
+24. Kesimpulan
+25. Lampiran
+26. Refreksi Kelompok
 
 ## 1. Pendahuluan
 ### 1.1 Latar Belakang
@@ -3864,7 +3868,6 @@ Berdasarkan pengujian menyeluruh terhadap seluruh komponen jaringan (**HTTP Serv
 | **NTP Server** | Tambahkan server cadangan (pool.ntp.org) | Redundansi waktu |  
 | **ACL** | Uji penetrasi (penyerangan simulasi) | Ketahanan terhadap spoofing |  
 
-
 ---
 ## Kendala dan Solusi
 
@@ -3970,5 +3973,24 @@ Link Canva https://www.canva.com/design/DAGoJp7aDs0/6QqdRXCl4-vE2gBTPCyXrw/edit?
 
 Link Video https://drive.google.com/drive/u/2/folders/1dOqyzMC_xRE7TQlTBovHAdXYLWCaJ6jw
 
+### Refreksi Kelompok
+1. Penerapan Teori ke Praktik
+Proyek ini memberikan kesempatan berharga untuk menerapkan konsep teoretis yang dipelajari di kelas ke dalam implementasi nyata. Kami menyadari bahwa memahami teori dan mengimplementasikannya adalah dua hal yang berbeda. Saat mengkonfigurasi VLAN, routing OSPF, dan ACL, kami harus benar-benar memahami konsep dasar agar implementasi berjalan dengan baik.
+2. Pentingnya Perencanaan dan Dokumentasi
+Kami belajar bahwa perencanaan yang matang sangat penting sebelum implementasi. Adanya dokumentasi yang jelas seperti diagram topologi dan tabel pengalamatan IP sangat membantu selama proses konfigurasi dan troubleshooting. Revisi topologi di minggu ke-11 mengajarkan kami betapa pentingnya fleksibilitas dalam perencanaan dan kemampuan untuk menyesuaikan diri dengan perubahan.
+3. Kolaborasi Tim dan Pembagian Peran
+Pembagian peran yang jelas (Network Architect, Network Services Specialist, Network Engineer, dan Security Specialist) membantu kami bekerja secara efisien. Setiap anggota fokus pada keahlian masing-masing namun tetap berkoordinasi untuk mencapai tujuan bersama. Kami belajar pentingnya komunikasi yang baik dan saling membantu ketika ada kesulitan.
+4. Pemecahan Masalah (Troubleshooting)
+Saat menghadapi kendala seperti masalah konektivitas antar VLAN dan bottleneck pada router ISP, kami mengembangkan kemampuan analisis dan pemecahan masalah. Kami belajar bahwa troubleshooting adalah proses sistematis yang memerlukan kesabaran dan pemahaman mendalam tentang cara kerja jaringan.
+5. Keamanan Jaringan sebagai Prioritas
+Implementasi ACL dan segmentasi VLAN membantu kami memahami pentingnya keamanan jaringan. Kami menyadari bahwa keamanan harus dipertimbangkan sejak tahap perencanaan, bukan ditambahkan sebagai afterthought.
+6. Redundansi dan High Availability
+Pengalaman mengatasi masalah single point of failure mengajarkan kami pentingnya redundansi dalam desain jaringan. Menerapkan multiple path antara Gedung A dan B memberi kami pemahaman tentang konsep high availability dalam jaringan enterprise.
+7. Pengalaman dengan Tools dan Teknologi
+Penggunaan Cisco Packet Tracer untuk simulasi memberikan pengalaman langsung dengan konfigurasi perangkat Cisco. Keterampilan ini sangat berharga untuk dunia profesional. Kami juga belajar bahwa dokumentasi yang baik mempermudah transfer pengetahuan antar anggota tim.
+8. Tantangan dan Kepuasan
+Mengatasi berbagai tantangan teknis memberikan kepuasan tersendiri ketika melihat jaringan berfungsi sesuai rencana. Proses belajar dari kesalahan dan perbaikan terus-menerus meningkatkan kepercayaan diri kami dalam mengelola proyek jaringan yang kompleks.
+9. Pentingnya Testing dan Validasi
+Kami belajar bahwa pengujian komprehensif sangat penting sebelum implementasi. Tahapan pengujian membantu kami menemukan dan memperbaiki masalah potensial sebelum memengaruhi operasional sistem.
 
 

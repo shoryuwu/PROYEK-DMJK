@@ -3974,7 +3974,7 @@ Link Github https://github.com/shoryuwu/PROYEK-DMJK/tree/main
 
 Link Canva https://www.canva.com/design/DAGoJp7aDs0/6QqdRXCl4-vE2gBTPCyXrw/edit?utm_content=DAGoJp7aDs0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-
+Link Video https://drive.google.com/drive/u/2/folders/1dOqyzMC_xRE7TQlTBovHAdXYLWCaJ6jw
 
 
 

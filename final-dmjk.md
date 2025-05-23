@@ -3968,6 +3968,10 @@ Untuk pengembangan lebih lanjut, beberapa rekomendasi prioritas telah diidentifi
 
 Secara keseluruhan, implementasi jaringan PT. Nusantara Network telah mencapai tujuan untuk menyediakan infrastruktur jaringan yang aman, efisien, dan terpadu yang mendukung kebutuhan operasional perusahaan dan memungkinkan pertumbuhan di masa depan.
 
+## Lampiran
+
+Link Github https://github.com/shoryuwu/PROYEK-DMJK/tree/main
+
 
 
 

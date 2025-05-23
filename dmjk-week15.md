@@ -1,4 +1,4 @@
-# Perencanaan Proyek PT. Nusantara Network - Pekan 9
+# Perencanaan Proyek PT. Nusantara Network - Pekan 15 
 
 ## Anggota Kelompok dan Peran
 - Firni Fauziah Ramadhini (10231038) - Network Architect

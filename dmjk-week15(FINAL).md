@@ -403,7 +403,6 @@ Switch utama yang mendistribusikan koneksi ke seluruh perangkat dan switch depar
 | 40 | Server | 192.168.40.0/24 | 192.168.40.1 | 192.168.40.2 - 192.168.40.254 | 253 |
 | 50 | Marketing | 192.168.50.0/24 | 192.168.50.1 | 192.168.50.2 - 192.168.50.254 | 253 |
 | 60 | Operasional | 192.168.60.0/24 | 192.168.60.1 | 192.168.60.2 - 192.168.60.254 | 253 |
-| Mgmt | Monitoring | 192.168.99.0/28 | 192.168.99.1 | 192.168.99.2 - 192.168.99.14 | 13 |
 | ISP | Internet | 10.10.10.0/30 | 10.10.10.1 | 10.10.10.2 - 10.10.10.3 | 2 |
 | WAN | Antarkantor | 172.16.1.0/30 | 172.16.1.1 | 172.16.1.2 - 172.16.1.3 | 2 |
 
@@ -477,8 +476,7 @@ Main switch ini merupakan tulang punggung jaringan di Gedung A yang menghubungka
 ###  Server 1–10 (VLAN 40)
 Menyediakan berbagai layanan penting seperti:  
 - **Server 1 (DHCP + DNS)**: Memberikan IP ke seluruh VLAN (via DHCP Relay) dan menangani DNS.  
-- **Server Web, Email, FTP, dan Database**: Mendukung aplikasi internal dan komunikasi.  
-- **AAA Server**: Menangani autentikasi, otorisasi, dan pencatatan aktivitas jaringan.  
+- **Server Web, Email, FTP, dan Database**: Mendukung aplikasi internal dan komunikasi.   
 - **Monitoring Server**: Memantau kondisi dan performa jaringan (PRTG, Syslog).  
 - **NTP & Backup Server**: Sinkronisasi waktu dan cadangan data.
 

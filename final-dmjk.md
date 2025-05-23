@@ -3972,6 +3972,8 @@ Secara keseluruhan, implementasi jaringan PT. Nusantara Network telah mencapai t
 
 Link Github https://github.com/shoryuwu/PROYEK-DMJK/tree/main
 
+Link Canva https://www.canva.com/design/DAGoJp7aDs0/6QqdRXCl4-vE2gBTPCyXrw/edit?utm_content=DAGoJp7aDs0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 
 
